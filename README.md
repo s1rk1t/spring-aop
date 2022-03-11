@@ -1,2 +1,2 @@
 # spring-aop
-sandbox apps to practice Spring AOP
+Spring based applications using Aspect Oriented Programming
